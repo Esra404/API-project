@@ -1,7 +1,7 @@
 # Esra Durmazın GÖrevleri
 
 ## AKtif görevler
-- Git nedir ne işe yarar nasıl kullanılır versiyon kontrolü nedir?
+- Git nedir ne işe yarar nasıl kullanılır versiyon kontrolü nedir? TAMAMLANDI
 - Github nedir? Github üzerine gitten nasıl kod gönderilir?
 - Gitlab nedir? Nasıl kullanılır ne işe yarar? Şirket içinde neden önemlidir?
 
