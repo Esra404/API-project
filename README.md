@@ -9,3 +9,5 @@
 - Apinin ne olduğuyla ilgili bir yazı yaz
 - Pythonla mysql altyapısını kullanan bir API örneği yaz
 - Database şu elemanları içermektedir ('isim', 'soyisim', 'telefon_no', 'email', 'toplam_bakiye', 'toplam_borç', 'aktifMi')
+## 1. hafta sonu
+- ders tamamlanmıştır
